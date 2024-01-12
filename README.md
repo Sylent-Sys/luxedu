@@ -1,16 +1,15 @@
 # luxedu
 
-A new Flutter project.
+Aplikasi yang kami kembangkan bertujuan untuk membantu dan meningkatkan sistem pendidikan di Indonesia dengan fokus pada peningkatan aksesibilitas, fleksibilitas, dan inklusivitas pendidikan. Tujuan utama kami adalah memberikan setiap anak kesempatan untuk mendapatkan pendidikan yang sesuai dengan kebutuhan mereka, tanpa terbatas oleh kendala waktu dan jarak.
 
-## Getting Started
+## Team Members
 
-This project is a starting point for a Flutter application.
+# Hacker
+Jason Patrick Winarto Hardiman - 2602163494
+Renaldi Apriyanto Kadang - 2702424060
 
-A few resources to get you started if this is your first Flutter project:
+# Hustler
+Ivana Yoshe Aldora - 2602157655
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Hipster
+Clarice Arlin Wijaya - 2602135143
